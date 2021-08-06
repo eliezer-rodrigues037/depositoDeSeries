@@ -1,6 +1,6 @@
 using System;
 
-namespace DIO.Series
+namespace depositoDeSeries.Series
 {
     public class Serie : EntidadeBase
     {
@@ -30,7 +30,7 @@ namespace DIO.Series
             retorno += "Titulo: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano de Início: " + this.Ano + Environment.NewLine;
-            retorno += "Excluido: " + this.Excluido;
+            retorno += this.Excluido? "*Excluído" : "";
 			return retorno;
 		}
 
