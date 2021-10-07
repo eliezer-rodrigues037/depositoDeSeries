@@ -44,6 +44,7 @@ namespace depositoDeSeries.Series
 
         private static void ExcluirSerie()
         {
+           
             Console.Write("Digite o id da série: ");
             int indiceSerie = int.Parse(Console.ReadLine());
 

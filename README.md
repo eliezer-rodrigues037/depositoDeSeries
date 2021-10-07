@@ -7,6 +7,6 @@
 
 Melhorada algumas interações de menu (WIP)
 Opção de categoria Filmes (WIP)
-Confirmações extra para exclusões (WIP)
+Confirmações extras para exclusões (WIP)
 Tratamento de inputs incorretos do usuário (WIP)
 

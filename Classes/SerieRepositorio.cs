@@ -8,9 +8,12 @@ namespace depositoDeSeries.Series
 	{
         private List<Serie> listaSerie = new List<Serie>();
 
-		public SerieRepositorio()
-		{
+		public SerieRepositorio(){
 			populaSeries();
+			populaSeries();
+			populaSeries();
+			populaSeries();
+			Console.WriteLine("");
 		}
 		public void Atualiza(int id, Serie objeto)
 		{
