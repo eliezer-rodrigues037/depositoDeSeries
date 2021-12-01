@@ -4,6 +4,7 @@ namespace depositoDeSeries.Series
 {
     public class Filme : EntidadeBase
     {
+        //prop : criar atributo para a classe
         private Genero Genero { get; set; }
 		private string Titulo { get; set; }
         private string Diretor {get; set;}
