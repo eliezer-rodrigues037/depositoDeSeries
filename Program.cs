@@ -64,16 +64,8 @@ namespace depositoDeSeries.Series
             }
             catch (System.Exception)
             {
-
                 Console.WriteLine("Este id é invalido ou não existe!");
             }
-
-            
-
-
-
-
-
         }
 
         private static void AtualizarSerie()
