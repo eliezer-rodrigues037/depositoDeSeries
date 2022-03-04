@@ -5,8 +5,8 @@
 
 ## Melhorias
 
-Melhorada algumas interações de menu (WIP)
-Opção de categoria Filmes (WIP)
-Confirmações extras para exclusões (WIP)
-Tratamento de inputs incorretos do usuário (WIP)
+Melhorada algumas interações de menu (WIP)<br>
+Opção de categoria Filmes (WIP)<br>
+Confirmações extras para exclusões (WIP)<br>
+Tratamento de inputs incorretos do usuário (WIP)<br>
 
